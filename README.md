@@ -65,10 +65,6 @@ Una pequeña aplicación desarrollada en **React** que utiliza **Hooks** para bu
     ```
 5. Abre un Pull Request.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
 ## Autor
 
-Desarrollado por **Juanm**. ¡Gracias por visitar este proyecto!
+Desarrollado por **Juanma** durante la realización del Curso de Desarrollo de Aplicaciones Web. ¡Gracias por visitar este proyecto!
